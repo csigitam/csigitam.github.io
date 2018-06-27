@@ -4,7 +4,7 @@ body {
 	color: #5a5a5a;
 }
 
-.active {
+.nav-item.active {
 	border-bottom: 2px solid #204A87;
 }
 
