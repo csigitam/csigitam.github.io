@@ -90,6 +90,7 @@ body {
 .jumbotron {
 	color: #FFF;
 	margin-bottom: 3.5rem;
+	border-radius: 0;
 }
 
 .j-events {
