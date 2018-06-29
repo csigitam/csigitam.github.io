@@ -38,18 +38,31 @@ body {
 	z-index: 10;
 }
 
+.carousel-caption h1, .carousel-caption p {
+	display: inline-block;
+	font-weight: bold;
+	text-shadow: 0 3px 10px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption .btn {
+	text-shadow: none;
+}
+
 .carousel-item {
-	min-height: 32rem;
+	min-height: 90vh;
 	background-color: #777;
-	/* bg image */
 }
 
 .carousel-item > img {
 	position: absolute;
 	top: 0;
-	left: 0;
+	right: 0;
 	min-width: 100%;
-	height: 32rem;
+	height: auto;
+}
+
+.img-intro {
+	margin-top: 8rem;
 }
 
 .marketing .col-lg-4 {
@@ -159,5 +172,8 @@ body {
 		display: inline-block;
 		width: 15%;
 		float: left;
+	}
+	.carousel-item > img {
+		right: -23%;
 	}
 }
