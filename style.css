@@ -1,7 +1,12 @@
 body {
+	font-family: Lato, sans-serif; /* Only in case font exists in system */
 	padding-top: 4rem;
 	padding-bottom: 3rem;
 	color: #5a5a5a;
+	transition: all ease-in-out 0.3s;
+}
+*, *:hover {
+	transition: all ease-in-out 0.3s;
 }
 
 .nav-item.active {
@@ -34,8 +39,9 @@ body {
 }
 
 .carousel-item {
-	height: 32rem;
+	min-height: 32rem;
 	background-color: #777;
+	/* bg image */
 }
 
 .carousel-item > img {
@@ -47,7 +53,7 @@ body {
 }
 
 .marketing .col-lg-4 {
-	margin-bottom: 1.5rem;
+	margin: 1.5rem 0;
 	text-align: center;
 }
 .marketing h2 {
@@ -68,6 +74,19 @@ body {
 	letter-spacing: -.05rem;
 }
 
+.img-fluid {
+	margin-bottom: 20px;
+}
+
+.g-map iframe {
+	display: block;
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	height: 300px;
+}
+
 @media (min-width: 40em) {
 	.carousel-caption p {
 		margin-bottom: 1.25rem;
@@ -85,7 +104,7 @@ body {
 		margin-top: 7rem;
 	}
 }
-@media (max-width: 991.98px) {
+@media (max-width: 768px) {
 	.social-icons {
 		display: inline;
 	}
