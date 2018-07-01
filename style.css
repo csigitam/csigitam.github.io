@@ -170,7 +170,8 @@ body {
 	.social-icons li {
 		list-style: none;
 		display: inline-block;
-		width: 15%;
+		width: 20%;
+		text-align: center;
 		float: left;
 	}
 	.carousel-item > img {
