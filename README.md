@@ -11,10 +11,24 @@
     <a href="https://csigitam.github.io/" target="_blank"><img alt="Team CSI" title="Team CSI" src="assets/gallery/007.png" width="80%"></a>
 </p>
 
+## Contributing
+
+1. [Fork](https://github.com/csigitam/csigitam.github.io/fork) it
+2. Create your feature branch (`git checkout -b feature/yourfeature`)
+3. Commit your changes (`git commit -am 'Add some yourfeature'`)
+4. Push to the branch (`git push origin feature/yourfeature`)
+5. Create a new Pull Request.
+
+> Please contact us before submitting a Pull Request since we can not accept PRs without verifying its validity.
+
 ## Feedback :blue_book:
 
-[![GitHub stars](https://img.shields.io/github/stars/csigitam/csigitam.github.io.svg?style=social&label=Star)](https://github.com/csigitam/csigitam.github.io)
 [![GitHub watchers](https://img.shields.io/github/watchers/csigitam/csigitam.github.io.svg?style=social&label=Watch)](https://github.com/csigitam/csigitam.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/csigitam.svg?style=social&label=Follow)](https://github.com/csigitam/csigitam.github.io)
+[![GitHub stars](https://img.shields.io/github/stars/csigitam/csigitam.github.io.svg?style=social&label=Star)](https://github.com/csigitam/csigitam.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/csigitam/csigitam.github.io.svg?style=social&label=Fork)](https://github.com/csigitam/csigitam.github.io)
 
 Feel free to send us feedback on [Facebook](https://www.facebook.com/gitamcsi/) or [file an issue](https://github.com/csigitam/csigitam.github.io/issues/new). Feature requests are always welcome. If there's anything you'd like to talk about, please feel free to contact us on [Facebook](https://www.facebook.com/gitamcsi/)!
+
+## Licensing
+
+Distributed under the MIT license. See `LICENSE` for more information.
