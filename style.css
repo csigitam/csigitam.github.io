@@ -185,4 +185,7 @@ body {
 	.carousel-item {
 		min-height: 110vh;
 	}
+	.carousel-item > img {
+		right: -10%;
+	}
 }
