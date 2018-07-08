@@ -99,6 +99,17 @@ body {
 	margin: 0;
 	height: 300px;
 }
+.left-icon {
+	float: left;
+	display: inline;
+	margin-left: 25%;
+}
+
+.right-icon {
+	float: right;
+	display: inline;
+	margin-right: 25%;
+}
 
 .jumbotron {
 	color: #FFF;
