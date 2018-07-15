@@ -1,40 +1,14 @@
-# Sublime project
+# Project files
 *.sublime*
-
 data
 
-# Taken from
-# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+# Created by https://www.gitignore.io/api/sass
 
-# Prerequisites
-*.d
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# End of https://www.gitignore.io/api/sass
