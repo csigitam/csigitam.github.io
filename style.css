@@ -1,11 +1,11 @@
 *, *:hover {
-  transition: all ease-in-out 0.3s; }
+  transition: all 0.3s ease-in-out; }
 
 body {
   font-family: Lato, sans-serif;
   padding-top: 4rem;
   padding-bottom: 3rem;
-  color: #5a5a5a; }
+  color: #5A5A5A; }
 
 .logo-title {
   line-height: 40px;
