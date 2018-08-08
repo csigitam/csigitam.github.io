@@ -57,6 +57,8 @@ body {
   .marketing .col-lg-4 p {
     margin-right: 0.75rem;
     margin-left: 0.75rem; }
+.marketing .col-lg-8 p, .marketing .col-lg-5 p {
+  text-align: justify; }
 
 .img-intro {
   margin-top: 8rem; }

@@ -11,6 +11,12 @@
     <a href="https://csigitam.github.io/" target="_blank"><img alt="Team CSI" title="Team CSI" src="assets/gallery/007.png" width="80%"></a>
 </p>
 
+<em>
+    <p align="center">
+        Built with Bootstrap 4 & Sass, powered by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+    </p>
+</em>
+
 ## Contributing
 
 1. [Fork](https://github.com/csigitam/csigitam.github.io/fork) it
@@ -21,7 +27,7 @@
 
 > Please contact us before submitting a Pull Request since we can not accept PRs without verifying its validity.
 
-## Feedback :blue_book:
+## Feedback
 
 [![GitHub watchers](https://img.shields.io/github/watchers/csigitam/csigitam.github.io.svg?style=social&label=Watch)](https://github.com/csigitam/csigitam.github.io)
 [![GitHub stars](https://img.shields.io/github/stars/csigitam/csigitam.github.io.svg?style=social&label=Star)](https://github.com/csigitam/csigitam.github.io)
@@ -31,4 +37,4 @@ Feel free to send us feedback on [Facebook](https://www.facebook.com/gitamcsi/) 
 
 ## Licensing
 
-Distributed under the MIT license. See `LICENSE` for more information.
+Distributed under the [MIT License](https://opensource.org/licenses/MIT). See [`LICENSE`](https://github.com/csigitam/csigitam.github.io/blob/master/LICENSE) for more information.
