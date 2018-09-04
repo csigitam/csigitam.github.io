@@ -1,5 +1,6 @@
 # Project files
 *.sublime*
+*.code-*
 data
 
 # Created by https://www.gitignore.io/api/sass
@@ -9,6 +10,5 @@ data
 *.css.map
 *.sass.map
 *.scss.map
-
 
 # End of https://www.gitignore.io/api/sass
