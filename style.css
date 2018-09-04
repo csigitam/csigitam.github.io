@@ -24,7 +24,10 @@ body {
   line-height: 50px; }
 
 .navbar-toggler {
-  border: none; }
+  border: none;
+  outline: none; }
+  .navbar-toggler:hover {
+    outline: none; }
 
 .carousel-caption {
   bottom: 3rem;
