@@ -16,6 +16,12 @@ body {
 
 .navbar-brand {
   padding: 0; }
+.start{
+  padding-top: 40px;
+}
+.batn{
+  margin-top: 15px;
+}
 
 .navbar-nav .nav-link {
   padding-top: 0;
@@ -62,6 +68,9 @@ body {
     margin-left: 0.75rem; }
 .marketing .col-lg-8 p, .marketing .col-lg-5 p {
   text-align: justify; }
+.poster{
+  padding-left: 80px;
+}
 
 .img-intro {
   margin-top: 8rem; }
@@ -76,6 +85,12 @@ body {
 
 .featurette-divider {
   margin: 5rem 0; }
+
+.bg {
+
+background: rgb(217,224,201);
+background: linear-gradient(90deg, rgba(217,224,201,1) 0%, rgba(219,231,233,1) 62%);
+ }
 
 .g-map iframe {
   display: block;
